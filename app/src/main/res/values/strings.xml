@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">AplicacionConsultor</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="copy_right">© Copyright 2015. Proyecto realizado por la oficina de sistemas e informática - ucp</string>
+    <string name="title_activity_ucp">Ucp</string>
+    <string name="title_activity_ing_sistemas_ucp">IngSistemasUcp</string>
+    <string name="titulo">CONSULTOR UNIVERSIDAD CIENTIFICA DEL PERU</string>
+    <string name="vision">VISION : Al 2020, la Universidad Cientifica del Peru estará posicionada
+        como una comunidad académica reconocida por su liderazgo en la región;por su labor formativa
+        y de producción y difusión de conocimiento de alta calidad e impacto.</string>
+
+    <string name="mision">MISION : La Universidad Científica del Perú es una comunidad académica con vocación de excelencia,
+        con vocación de servicio y comprometidos con la construcción de una sociedad más justa. </string>
+    
+
+
+    <string name="sistemas">La Ingeniería de Sistemas es un campo de la ingeniería que se encarga del diseño,
+        la programación, la implantación y el mantenimiento de sistemas para optimizar sistemas complejos</string>
+    <string name="title_activity_ing_civil_ucp">IngCivilUcp</string>
+
+    <string name="civil">La ingeniería civil es la disciplina de la ingeniería que emplea conocimientos de cálculo, mecánica, hidráulica y
+        física para encargarse del diseño, construcción y mantenimiento de las infraestructuras</string>
+
+    <string name="comunicacion">La Escuela de Ciencias de la Comunicación está orientada
+        a formarte como un profesional altamente competitivo, preparado para desempeñar con éxito todas las
+        funciones del comunicador social responsable y eficiente</string>
+
+    <string name="derecho">La carrera de Derecho tiene por objeto formar Licenciados en Ciencias Jurídicas que
+        sean capaces de desempeñarse con competencia y responsabilidad en las diversas áreas
+        de ejercicio de la profesión de abogado.</string>
+
+    <string name="contabilidad">La carrera de Contabilidad y Finanzas trata sobre la formación de profesionales contables
+        que respondan a los cambios del entorno,
+        la globalización y la internacionalización de la economía.</string>
+
+    <string name="administracion">La carrera de Administración de Empresas estudia la forma en que las empresas u organizaciones obtienen y
+        utilizan los recursos que tienen a disposición para el
+        logro de determinados fines y objetivos</string>
+
+    <string name="title_activity_comunicacion_ucp">ComunicacionUcp</string>
+    <string name="title_activity_derecho_ucp">DerechoUcp</string>
+    <string name="title_activity_contabilidad_finanzas_ucp">ContabilidadFinanzasUcp</string>
+    <string name="title_activity_administracion_empresas_ucp">AdministracionEmpresasUcp</string>
+    <string name="title_activity_beca18_ucp">Beca18Ucp</string>
+    <string name="title_activity_video_player">VideoPlayer</string>
+</resources>

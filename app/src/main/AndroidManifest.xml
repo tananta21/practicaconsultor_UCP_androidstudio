@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="net.tananta.kevin.aplicacionconsultor" >
+
+    <usa-permiso android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icono"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".ui.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.Ucp"
+            android:label="@string/title_activity_ucp" >
+        </activity>
+        <activity
+            android:name=".ui.IngSistemasUcp"
+            android:label="@string/title_activity_ing_sistemas_ucp" >
+        </activity>
+        <activity
+            android:name=".ui.IngCivilUcp"
+            android:label="@string/title_activity_ing_civil_ucp" >
+        </activity>
+        <activity
+            android:name=".ui.CienciasComunicacionUcp"
+            android:label="@string/title_activity_comunicacion_ucp" >
+        </activity>
+        <activity
+            android:name=".ui.DerechoUcp"
+            android:label="@string/title_activity_derecho_ucp" >
+        </activity>
+        <activity
+            android:name=".ui.ContabilidadFinanzasUcp"
+            android:label="@string/title_activity_contabilidad_finanzas_ucp" >
+        </activity>
+        <activity
+            android:name=".ui.AdministracionEmpresasUcp"
+            android:label="@string/title_activity_administracion_empresas_ucp" >
+        </activity>
+    </application>
+
+</manifest>
